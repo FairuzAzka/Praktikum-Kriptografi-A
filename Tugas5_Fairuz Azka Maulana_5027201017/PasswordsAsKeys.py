@@ -27,4 +27,3 @@ with open('passwords_as_keys.txt', 'r') as f:
                 sys.exit(0)
         except ValueError as e:
             continue
-# flag is 
